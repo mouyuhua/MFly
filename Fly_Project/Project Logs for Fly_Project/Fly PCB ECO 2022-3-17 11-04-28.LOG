@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VDDIN Pin=D1-1
+Removed Pin From Net: NetName=VDDIN Pin=R4-1
+Change Component Footprint: Designator=L2 Old Footprint=AL0204 New Footprint=0402L
+Change Component Footprint: Designator=L3 Old Footprint=AL0204 New Footprint=0402L
+Change Component Footprint: Designator=L4 Old Footprint=AL0204 New Footprint=0402L
+Added Pin To Net: NetName=VDDIN Pin=D1-2
+Added Pin To Net: NetName=VDDIN Pin=IC1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R4-1
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=U_NRF2401 Member=Component L2 INDUCTOR
+Added Member To Class: ClassName=U_NRF2401 Member=Component L3 INDUCTOR
+Added Member To Class: ClassName=U_NRF2401 Member=Component L4 INDUCTOR
+Added Room: Name=U_ESP8266
+Added Room: Name=U_LED
+Added Room: Name=U_MCU_F1
+Added Room: Name=U_Motor
+Added Room: Name=U_NRF2401
+Added Room: Name=U_OpenMV
+Added Room: Name=U_Power&typec
+Added Room: Name=U_Sensors

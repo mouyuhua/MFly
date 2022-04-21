@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Fly_Project.PrjPcb]
+   Generated File[Fly.GTL]
+   Generated File[Fly.GBL]
+   Generated File[Fly.GPB]
+   Generated File[Fly.GPT]
+   Generated File[Fly.GTO]
+   Generated File[Fly.GTP]
+   Generated File[Fly.GTS]
+   Generated File[Fly.GBS]
+   Generated File[Fly.GBP]
+   Generated File[Fly.GBO]
+   Generated File[Fly.GM1]
+   Generated File[Fly.GM13]
+   Generated File[Fly.GM15]
+   Generated File[Fly.GD1]
+   Generated File[Fly.RUL]
+   Generated File[Fly.EXTREP]
+   Generated File[Fly.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 16:59:29 On 2022/4/4

@@ -1,0 +1,13 @@
+Change Net Name : Old Net Name=I2C1_SDL New Net Name=I2C1_SDA
+Added Member To Class: ClassName=U_Sensors Member=Component C22 10nF
+Added Member To Class: ClassName=U_Sensors Member=Component C23 0.1uF
+Added Member To Class: ClassName=U_Sensors Member=Component U6 MPU9250
+Added Member To Class: ClassName=U_ESP8266 Member=Component U8 ESP8266
+Added Room: Name=U_ESP8266
+Added Room: Name=U_LED
+Added Room: Name=U_MCU_F1
+Added Room: Name=U_Motor
+Added Room: Name=U_NRF2401
+Added Room: Name=U_OpenMV
+Added Room: Name=U_Power&typec
+Added Room: Name=U_Sensors
